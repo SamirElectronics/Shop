@@ -434,3 +434,55 @@ S200000000,12/10/2020 Mon 04:08:35 PM,Income By Product Sale ,Md Suhel Miah,Chan
 S200000000,12/10/2020 Mon 04:20:06 PM,Income By Product Sale ,Md Asrafuddin,Razapur Madhabpur Habigonj,01720291457,26500
 S200000000,12/10/2020 Mon 05:05:52 PM,Income By Product Sale ,Sumon Eletronics,Madhabpur,01724689774,00000
 S200000000,12/10/2020 Mon 05:27:04 PM,Income By Product Sale ,Md Sumon Miah,Guniyak Nasirnagar,01736948581,25500
+S200000000,13/10/2020 Tue 12:19:30 PM,Income By Product Sale ,Md Uzzal Miah,Borog Bolla Madhabpur,01728693856,25300
+S200000000,13/10/2020 Tue 02:32:37 PM,Income By Product Sale ,Sumon Electronics,Madhabpur,01724689774,27900
+S200000000,13/10/2020 Tue 04:43:40 PM,Income By Product Sale ,Md Rubel Miah,Madhabpur Habigonj,01757411885,14000
+S200000000,13/10/2020 Tue 06:44:54 PM,Income By Product Sale ,Md Hafijur Rahman,Jagadishpur Madhabpur,01744618192,30300
+S200000000,14/10/2020 Wed 11:25:08 AM,Income By Product Sale ,Suman Electronics,Madhabpur Habigonj,01724689774,00000
+S200000000,14/10/2020 Wed 12:25:26 PM,Income By Product Sale ,Mr Monuj Modok,Madhabpur Habigonj,0000000000,16500
+P100000000,14/10/2020 Wed 12:28:47 PM,Cost By Product Purchase ,Monuj Mudok,Madhabpur,00000000000,00000
+S200000000,14/10/2020 Wed 12:29:47 PM,Income By Product Sale ,Mr Monuj Modok,Madhabpur Habigonj,00000000000,16000
+S200000000,14/10/2020 Wed 02:15:12 PM,Income By Product Sale ,Mohabbot Ali,Sahjadapur Sarail,01776469860,10000
+S200000000,14/10/2020 Wed 04:37:31 PM,Income By Product Sale ,Alomgir Miah,Chandura Madhabpur,00000000000,00000
+S200000000,14/10/2020 Wed 06:57:58 PM,Income By Product Sale ,Md Rubel Miah,Madhabpur Habigonj,01759287895,15990
+S200000000,15/10/2020 Thu 01:32:49 PM,Income By Product Sale ,Nikil Devnath,Noagao Madhabpur,01727536425,00000
+S200000000,15/10/2020 Thu 01:37:40 PM,Income By Product Sale ,Utjjal Devnath,Noagao Madhabpur,01727367099,00000
+S200000000,15/10/2020 Thu 02:16:54 PM,Income By Product Sale ,Masud Rana,Andiura Madhabpur,01719962034,15990
+S200000000,15/10/2020 Thu 02:46:33 PM,Income By Product Sale ,Md Al Amin,Jowalvanga Madhabpur Habigonj,01726851507,15990
+P100000000,15/10/2020 Thu 03:15:35 PM,Cost By Product Purchase ,Alamgir Electronics,Chandura Bijoynagar,00000000000,00000
+S200000000,15/10/2020 Thu 03:16:37 PM,Income By Product Sale ,Md Shah Alam,Chanderpar Nasirnagar,01724463243,10000
+S200000000,15/10/2020 Thu 03:31:38 PM,Income By Product Sale ,Md Monuar Husen,Madhabpur Habigonj,01745138624,15000
+S200000000,15/10/2020 Thu 03:35:01 PM,Income By Product Sale ,Md Kaled Mubarok,Haripur Nasirnagar Brahmanbaria,01715786162,64900
+S200000000,15/10/2020 Thu 06:38:13 PM,Income By Product Sale ,Uttam Das,Satborgo Bijoynagar Brahmanbaria,01736314812,18500
+S200000000,15/10/2020 Thu 07:07:48 PM,Income By Product Sale ,Md Anowar Husen,Haluyapara Madhabpur Habigonj,01717585248,4000
+S200000000,17/10/2020 Sat 12:05:49 PM,Income By Product Sale ,Md Kuddus Miah,Bargariya Bijoynagar,01728362683,27400
+S200000000,17/10/2020 Sat 12:19:04 PM,Income By Product Sale ,Rajib Roy,Satborgo Bijoynagar Brahmanbaria,01714629338,10000
+S200000000,17/10/2020 Sat 01:39:36 PM,Income By Product Sale ,Sayd Mahee,Haripur Nasirnagar,01719411102,22250
+S200000000,17/10/2020 Sat 03:13:57 PM,Income By Product Sale ,Kondhakar Electronics,Aoliabazar Bijoynagar,01711262778,93540
+S200000000,17/10/2020 Sat 04:00:38 PM,Income By Product Sale ,Md Shafiqur Rahman,Sahebnagar Motola Madhabpur,01733939902,11700
+S200000000,17/10/2020 Sat 06:26:19 PM,Income By Product Sale ,Md Shafiqul Islam,Bijoynagar Brahmanbaria,01726492646,11700
+S200000000,17/10/2020 Sat 08:00:43 PM,Income By Product Sale ,Sumon Devnath,Gupalpur Madhabpur,01796189089,3000
+S200000000,18/10/2020 Sun 12:15:15 PM,Income By Product Sale ,Md Abdul Bayes,Aktiayarpur Bijoynagar Brahmanbaria,01706433067,25500
+S200000000,18/10/2020 Sun 03:44:11 PM,Income By Product Sale ,Mrs Monuara Akther,Shongrador Nasirnagar,01306613359,32900
+P100000000,19/10/2020 Mon 12:59:29 PM,Cost By Product Purchase ,Walton,Dhaka,0000000000,000000
+S200000000,19/10/2020 Mon 01:01:32 PM,Income By Product Sale ,Alamgir Ele,Chandora,0000000000,00000
+S200000000,19/10/2020 Mon 01:19:49 PM,Income By Product Sale ,Md Khokhon Miah,Madhabpur Habigonj,01720822063,36500
+S200000000,19/10/2020 Mon 02:06:02 PM,Income By Product Sale ,Md Akkas Miah,Andiura Madhabpur Habigonj,01766849091,22900
+S200000000,19/10/2020 Mon 02:13:51 PM,Income By Product Sale ,Md Alamgir Electronics,Chandura Bijoynagar,0000000000,00000
+S200000000,19/10/2020 Mon 04:42:36 PM,Income By Product Sale ,Mamun Rasid Chowdhury,Madhabpur Habiganj,01717185893,32500
+S200000000,19/10/2020 Mon 07:27:26 PM,Income By Product Sale ,Md Jahir Vuiya,Satborgo Bijoynagar,0000000000,3300
+S200000000,20/10/2020 Tue 11:25:17 AM,Income By Product Sale ,Md Juel,Islampur Bijoynagar,01672956125,13500
+S200000000,20/10/2020 Tue 03:02:52 PM,Income By Product Sale ,Md Juel Vuiya,Islampur Bijoynagar,01672956125,9550
+S200000000,20/10/2020 Tue 05:02:35 PM,Income By Product Sale ,Shanto Das,Rampur Nasirnagar,01730899334,18500
+S200000000,21/10/2020 Wed 11:32:51 AM,Income By Product Sale ,Imon Shah,Nowapara Madhabpur Habigonj,00000000000,27690
+P100000000,21/10/2020 Wed 12:46:59 PM,Cost By Product Purchase ,Md Juel Miah,Islampur Brahmanbaria,0000000000,13500
+S200000000,21/10/2020 Wed 03:39:51 PM,Income By Product Sale ,Md Din Islam,Dhalgaw Madhabpur Habigonj,01768870027,24800
+S200000000,21/10/2020 Wed 04:58:51 PM,Income By Product Sale ,Md Sulatan Shek,Madhabpur Habigonj,01999051474,18500
+S200000000,22/10/2020 Thu 12:46:13 PM,Income By Product Sale ,Md Shuyaib ,Sultanpur Madhabpur Habigonj,01309802648,10000
+S200000000,22/10/2020 Thu 02:18:03 PM,Income By Product Sale ,Md Joynal Miah,Anayetpur Madhabpur Habigonj,01717870726,29500
+S200000000,22/10/2020 Thu 04:01:37 PM,Income By Product Sale ,Md Maruf Miah,Chaportola Nasirnagar Bramanbaria,01799468730,24800
+S200000000,24/10/2020 Sat 11:28:40 AM,Income By Product Sale ,Md Ahad Miah,Madhabpur Habigonj,01784868312,25300
+S200000000,24/10/2020 Sat 12:14:41 PM,Income By Product Sale ,Musarrof Husen,Gukorna Nasirnagar,01734872400,25300
+S200000000,24/10/2020 Sat 01:38:16 PM,Income By Product Sale ,Akter Miah,Gupalpur Madhabpur,01724382312,25300
+S200000000,24/10/2020 Sat 02:34:00 PM,Income By Product Sale ,Misu Mama,Noapara Madhabpur,00000000000,19500
+S200000000,25/10/2020 Sun 11:31:31 AM,Income By Product Sale ,Shek Md Kamruzzam,Chunaroghat Habigonj,01716010819,36200
